@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/loops/bin/Debug/netcoreapp2.0/loops.deps.json
+/home/ubuntu/workspace/loops/bin/Debug/netcoreapp2.0/loops.runtimeconfig.json
+/home/ubuntu/workspace/loops/bin/Debug/netcoreapp2.0/loops.runtimeconfig.dev.json
+/home/ubuntu/workspace/loops/obj/Debug/netcoreapp2.0/loops.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/loops/obj/Debug/netcoreapp2.0/loops.AssemblyInfo.cs
+/home/ubuntu/workspace/loops/bin/Debug/netcoreapp2.0/loops.dll
+/home/ubuntu/workspace/loops/bin/Debug/netcoreapp2.0/loops.pdb
+/home/ubuntu/workspace/loops/obj/Debug/netcoreapp2.0/loops.dll
+/home/ubuntu/workspace/loops/obj/Debug/netcoreapp2.0/loops.pdb
